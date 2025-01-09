@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# NPN Converter 🔄
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Conversor de Números Prediales Nacionales | National Property Number Converter
 
-## Available Scripts
+Herramienta web para la conversión de números prediales entre formatos de 20 y 30 dígitos, especializada en el sector catastral rural de Colombia. 
 
-In the project directory, you can run:
+[![Ejemplo de la aplicación](https://img.shields.io/badge/Demo-Ver%20Online-blue)](https://jusebas93martinez.github.io/predial-converter/)
 
-### `npm start`
+### ✨ Características
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Conversión bidireccional (20↔30 dígitos)
+- Identificación automática de departamento y municipio
+- Validación en tiempo real
+- Interfaz intuitiva y responsive
+- Soporte para predios rurales
+- Sin necesidad de instalación
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🛠️ Tecnologías
 
-### `npm test`
+- React.js
+- Tailwind CSS
+- JavaScript ES6+
+- GitHub Pages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🎯 Usos Principales
 
-### `npm run build`
+- Conversión de números prediales antiguos a nuevos formatos
+- Validación de números prediales
+- Identificación de ubicación geográfica por código
+- Gestión catastral rural
+- Actualización de bases de datos prediales
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🔍 Keywords / Palabras Clave
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#NumeroPredial #Catastro #CatastroColombia #IGAC #GestionCatastral #SIG #GIS #PrediosRurales #ConversionPredial #CatastroMultiproposito #Colombia #DesarrolloWeb #React #TailwindCSS #OpenSource #WebApp #Geomática #TopografíaColombia #CódigoPredial #NPNConverter
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 👨‍💻 Desarrollado por
 
-### `npm run eject`
+Sebastian Martinez  
+Ingeniero Topográfico, Cartográfico y Catastral
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 📝 Licencia
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+MIT License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
+### 🔄 Formatos Soportados
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Formato 20 dígitos**: Estructura antigua de codificación predial
+- **Formato 30 dígitos**: Nueva estructura según estándares IGAC
 
-## Learn More
+---
+### 🌎 Cobertura Geográfica
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Todos los departamentos de Colombia
+- Especialmente útil para zonas rurales
+- Compatible con la estructura del IGAC
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+### 📊 Casos de Uso
 
-### Code Splitting
+1. Actualización de registros catastrales
+2. Migración de bases de datos
+3. Verificación de códigos prediales
+4. Gestión de información territorial
+5. Análisis geográfico y estadístico
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Para más información sobre números prediales y estándares catastrales, visita [IGAC](https://www.igac.gov.co/)
