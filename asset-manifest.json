@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/predial-converter/static/css/main.fec9739f.css",
+    "main.js": "/predial-converter/static/js/main.fa51887b.js",
+    "static/js/453.f3c95d84.chunk.js": "/predial-converter/static/js/453.f3c95d84.chunk.js",
+    "index.html": "/predial-converter/index.html",
+    "main.fec9739f.css.map": "/predial-converter/static/css/main.fec9739f.css.map",
+    "main.fa51887b.js.map": "/predial-converter/static/js/main.fa51887b.js.map",
+    "453.f3c95d84.chunk.js.map": "/predial-converter/static/js/453.f3c95d84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fec9739f.css",
+    "static/js/main.fa51887b.js"
+  ]
+}
