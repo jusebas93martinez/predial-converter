@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "NPN Converter",
+  "name": "Número Predial Nacional Converter",
   "icons": [
     {
       "src": "favicon.ico",
